@@ -15,3 +15,9 @@ Key features
 - area scripts change based on if you have been there before or not
 - all creatures have different attack patterns
 - unique dialogue for most user choices
+
+Summary of game
+- meet a mysterious wizard and head out on an adventure
+- fight monsters retrieve their items
+- go to the mountain where it opens revealing the staff
+- one final choice...
